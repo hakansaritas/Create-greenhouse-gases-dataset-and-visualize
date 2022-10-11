@@ -3,7 +3,7 @@
 ## Steps: 
     - Create One Datasets combining txt and csv datasets
     - Feature engineering with creatinng new variables from exists
-    - Line, Bar, Histogram, Errorbar, Box, Scatter plots examples
+    - Line, Bar, Histogram, Errorbar, Box, Scatter, Stem plots examples
     
 * The dataset was created using NOAA - Global Monitoring Laboratory's studies on greenhouse gases (CO2,N2O, CH4, SF6, Reletive Temprature) for near two decade
 
